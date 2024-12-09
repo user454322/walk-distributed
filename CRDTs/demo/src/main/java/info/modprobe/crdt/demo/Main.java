@@ -45,6 +45,6 @@ public class Main {
 
             SECONDS.sleep(1);
         }
-        
+
     }
 }
